@@ -1,0 +1,22 @@
+img{
+  /* display: block; */
+  width:100px;
+  object-position: right;
+  object-fit: cover;
+  padding: 10px;
+}
+
+.cart-card{
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  border: 2px solid red;
+  margin: auto;
+  background-color: bisque;
+  align-items: center;
+}
+.flex{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
